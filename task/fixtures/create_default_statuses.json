@@ -1,0 +1,23 @@
+[
+  {
+    "model": "task.TaskStatus",
+    "pk": 1,
+    "fields": {
+      "name": "New"
+    }
+  },
+  {
+    "model": "task.TaskStatus",
+    "pk": 2,
+    "fields": {
+      "name": "In progress"
+    }
+  },
+  {
+    "model": "task.TaskStatus",
+    "pk": 3,
+    "fields": {
+      "name": "Done"
+    }
+  }
+]
